@@ -26,7 +26,7 @@ jobs:
         arch:
           - arm_cortex-a7_neon-vfpv4
         sdk:
-          - openwrt-21.02.7
+          - openwrt-21.02
           - openwrt-22.03
           - SNAPSHOT
 
